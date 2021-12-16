@@ -103,17 +103,21 @@ Diplomats:
 - Timurids improve
 - Misc spynetwork
 
+Consider getting Grand company before it's too big?
 
-
-Korchin: dow with reconquest?
+Korchin: dow + farm Mongolia opinion (see above notes)
 Mongolia: integrate (see above notes)
-Ming: need Esen Taishi to die with Timurid dynasty... how many troops for Ming?
-Chagatai: 
-Uzbek:
-Timurid: Ruler needs to die and ind. war needs to fire before I get an RM.
+Ming: need Esen Taishi to die with Timurid dynasty... Probably segment
+Chagatai: If can't dec on Dec11, then he will recover. Can still get 100% WS w/o
+Yarkand
+Uzbek: Juicy
+Timurids: Ruler needs to die and ind. war needs to fire before I get an RM. He
+needs to have weak allies or allies I can easily kill (aka just Nogai...
+Chagatai works too but idk if Timurids ever allies them). Great Horde/big
+Indians are nono
 
 
-Phase 1:
+War 1:
 Dow Korchin (let them occupy Mongolian province first -- fight with free
 company?)
 - Don't move troops south, let Korchin think Southern Mongolia is safe.
@@ -125,5 +129,24 @@ west, so move troops accordingly to catch them in Qurqara Usu or Ili
 Gift Mongolia before Feb 1445 (need 50+ ducats and not making deficit, which
 could be hard with going super over FL)
 
+Peace out both when Mongolia integration is ready. Don't raze Mongolian cores
+until begin annexation.
 
-Note: Ming can enforce peace
+Hire grand company here? Not sure. Can also hire some Chinese mercs around here.
+
+War 2:
+Dow Solon (feed Mongolia land)
+Dow Haixi (feudalism)
+Dow other Manchurians if appropriate. Maybe leave Jianzhou alone.
+Dow Uzbek (don't wait for Mongolia integration -- just take and core the central
+asian provinces w/o perma claim, w.e). Probably release Sibir vassal -- don't
+bother coring
+
+Dow Kazan + Nogai, dow Transoxiana if appropriate.
+Should be able to dow Ming soon.
+
+Savescum for:
+1) Poland Lithuania PU (they should be separate)
+2) Moldavia vassal (they should remain independent and therefore guaranteed by Poland)
+3) Crimea Ottoman march (no thanks)
+4) Austria Hungary PU
