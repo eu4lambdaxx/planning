@@ -1,0 +1,32 @@
+This is a super try hard run on 1.31.6 aimed to beat Terry's 1495 record (also
+on 1.31.6). There are some "questionable" tricks/methods that I will allow:
+
+1) HRE fast revoke (v1, v2, and v3) and HRE abuse (add non Europe in HRE). Terry
+used these (he called v3 revoke Lambda revoke plus and HRE abuse god king)
+
+2) Extreme save scumming/birding for pulse events (in particular dotf.1). Terry
+has not explicitly mentioned that he save scummed for it, but I highly doubt he
+got 2 two year pulse events with less than 0.5% chance without save scumming.
+There's nothing wrong with save scumming to me, it's just a matter of effort,
+but I'll do the same to match the level of RNG. I don't know how far Terry went
+for these events, but I intend to capture all pulse events that I want. This
+also includes replaying certain segments to get a favorable RNG, in particular
+ruler deaths. Esen Taishi dying early and getting a Timurid dynasty is crucial
+to the run. I may also consider replaying a segment for HRE emperor/Austria's
+death so I don't have to spend a year or two forcing a re-election. This rule is
+quite extreme to me, but it's something I have to enable to get a competitive
+time.
+
+3) CTA canceling. You can force a 1v1 offensive war on enemies using a
+particular trick. This is mostly relevant for the early wars and is more about
+reducing the number of 1444s to look for favorable nice alliance chains. Later
+on, alliances save diplomat travel time, so it's not particularly a gamechanger.
+As far as I know, Terry did not use this, so this gives my run a slight edge
+esp. in the early game.
+
+4) Native migration manipulation TBD. I may or may not do this if I feel like
+it. I used it in my 1.29 run, and I'm not sure if I can still manipulate post
+rework 1.31 natives.
+
+Note that as per usual, I do not allow custom nations, external programs (like
+cheat engine), changing game files, etc.

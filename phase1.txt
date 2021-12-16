@@ -1,0 +1,129 @@
+Some of the early game is inspired by Terry's 1495 run. Lots of brainstorming
+and advices from Gnostek, esp. on Timurid dynasty, Mongolia integration, etc.
+Revoke strat is mostly going to be the same as my original plan, but I will use
+a catholic province as capital.
+
+Revoke ~1460 notes:
+
+Golden era:
+- 5 vassals
+- large city (30 dev cap)
+- present on two continents
+- humiliate
+
+consider not doing 5 vassals, large city, or humiliate? Humiliate means I have
+to sacrifise 40 WS early on, large city means I have to concentrate ~20 dev
+early on (prefer to concentrate after moving cap to catholic province for easier
+religion flip), and 5 vassals mean I have to setup some vassals...
+
+I think large city is fine -- it's not that much dev, and I don't think Tengri
+is a contender, it'll be catholic vs sunni.
+Humiliate on Ming might be okay.
+Vassal is... not sure. Preferably no? Maybe a few is still useful for lambda 2.
+
+Dip rep:
+- +1 (25 yrs) Generic mission (two allies w/ 150 opinion, could be easily done when securing
+  HRE election)
+- +1 (10 yrs) Tribal estate agenda to subjugate someone
+- +1 Diplo rep advisor
+- +2 Diplo ideas
+- +1 (10 yrs) Diplo rep idea group event (5 year pulse)
+
+Manchu formation before revoke??
+- Gives another cycle of consolidating for higher catholic dev
+- Gives 2 dip rep if Korea is fully conquered
+- Need to get Defeat the Rus before
+- Need to move cap again after forming (more adm spent)
+- Need to conquer more asian stuff
+
+Oirat missions:
+- Claim the khanate (core Mongolia's capital)
+- Unite the mongols (own 5 provinces of Mongol/Korchin/Khalkha/Oirat)
+  - Need to dow Korchin for the 5 Korchin provinces
+  - Need to grab 3 Mongolian provinces (from Mongolia)
+- Restore rule on the steppe (own 30 provinces in Central asia + Ryn and Khiva)
+- Subjugate the Tatars (own 15 provinces in Pontic Steppe region)
+- Defeat the Rus (own 30 provinces in Russia/Ruthenia and own Kiev + Moskva)
+
+Dealing with Mongolia:
+25 rel 50 vassal 20 transfer trade 25 rm 5 consort ties 25 gift
+~40 extra improv relation needed (45 if no consort ties) to begin annexation
+15 from subsidies if done ~10 months in advance. Costs roughly 5 duc/mo
+~May 1446 with advisor + trade policy
+Feed Solon Mongolian land after beginning annexation to minimize annexation
+cost. Make sure to leave 3 Mongolian culture provinces + Ih Huree for mission
+tree.
+What if you dow Korchin?
+- Unsieging a province gives 25 opinion (ticks down by 1/yr, does not stack)
+- Fighting a battle in Mongolia land gives 10 opinion (^)
+- Taking Mongolian core from Korchin loses 20 opinion
+Overall, +15 opinion diff, which saves ~7 months. Mongolia annexation can start
+around Oct 1445 ideally. Can adjust a bit by not taking Mongolian cores or
+subsidizing. Can also enforce dynasty (25 LD for 15 opinion). Make sure you
+don't raze any Mongolian cores until you begin integration.
+
+Manchu:
+- 20 Jurchen cores (2 of them have to be Girin and Huncun) to form
+- Dominate Rival Jurchens (core Girin + Huncun + Ilan Hala + Hulan)
+- Unite the Jurchen tribes (own 25 Manchurian region provinces)
+- Bypass the Great Wall (own Beijing and Shenyang)
+- The Eight Banners (have 8 banners -- make sure you do not immediately give -banner priv)
+- Invade Joseon (own all Korea region provinces)
+
+Starting mercs:
+- Buryat Band high siege for Korchin. Use for Solon + Manchuria + Ming
+- Kazakh company high siege for Chagatai -> Uzbek. Mongol mercs OK, but more
+  expensive. Use west
+
+Route:
+
+1444-11-11:
+Placate + transfer trade hover to make Mongolia loyal. Build 2 infantry
+Seize Barag from Mongolia, hire free company then Buryat band on Barag
+Do ^ before estates since low CL malus will make them disloyal
+Transfer trade Mongolia
+
+Estates:
+- GC + manpower + loyalty/influence agendas
+- Sell land
+- (don't seize, the 20% cav cost is more valuable than the penalty of 15% CL for
+  a year or so until you do one peace deal)
+- Call diet (need annex Mongolia diet? maybe not)
+
+Merchants: Xian merchant establish communities, Siberia collect to Yumen collect
+(set policy to siege ability during war with Chagatai)
+Advisors: Adm is w.e, dip is imp rel, mil is morale
+Missionnary: send to anything + missionary strength edict
+Decisions: Yellow shamanism, no introduce vision quest
+Adm focus
+Rival Uzbek + Chagatai
+
+Diplomats:
+- Mongolia improve (takes 11 days to come back)
+- Timurids improve
+- Misc spynetwork
+
+
+
+Korchin: dow with reconquest?
+Mongolia: integrate (see above notes)
+Ming: need Esen Taishi to die with Timurid dynasty... how many troops for Ming?
+Chagatai: 
+Uzbek:
+Timurid: Ruler needs to die and ind. war needs to fire before I get an RM.
+
+
+Phase 1:
+Dow Korchin (let them occupy Mongolian province first -- fight with free
+company?)
+- Don't move troops south, let Korchin think Southern Mongolia is safe.
+- Should appear on Ju Ud around Jan? They will try to defend their country if
+  you siege them, so don't siege until they finish Ju Ud siege.
+Dow Chagatai (wipe Chagatai asap, don't siege Yarkand too much). They will run
+west, so move troops accordingly to catch them in Qurqara Usu or Ili
+
+Gift Mongolia before Feb 1445 (need 50+ ducats and not making deficit, which
+could be hard with going super over FL)
+
+
+Note: Ming can enforce peace
