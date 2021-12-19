@@ -1,0 +1,30 @@
+Nice pulse events to bird for:
+
+Biannual
+Pulse 1 - ~1446/04/18
+- 714 (10% siege ability for 10 years, 15 if bold leader)
+- Personality_events.25 (10% WS for 5 years)
+- Personality_events.37 (15% siege ability for 5 years)
+- random_event.9 (5% siege ability til ruler death)
+  - a war enemy needs to employ a fort defense advisor with your country's culture. Should be triggerable by just culture converting. Very nice
+
+Pulse 4 - ~1446/07/15
+- dotf.1 (25% WS for 20 years POG)
+- army_professionalism_events.10 (15 AT)
+- 6014 (50 adm)
+
+3 year
+Pulse 3
+- subject_interaction_events.34 (+1 dip rep and -15% integration cost for 5 years, 3 subjects w/ 125+ opinion and LD < 10%)
+
+5 year
+Pulse 1 ~1449/10/03
+I think all modifiers below are 10 years
+- influence (firm hand - 25% income from vassals, 100% vassal FL, pen is backed by sword - 33% envoy travel time)
+- horde gov (blue dragon/white tiger - 20% razing power. Mutually exclusive, taming provinces - 15% mvspd)
+- humanist (10% idea cost)
+- 
+
+Pulse 2 (~1449/11/02)
+- tribal_estate_events.9 (20% razing power, 10% morale for 10 years, should have 50+ tribal influence)
+

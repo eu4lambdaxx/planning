@@ -6,7 +6,6 @@ a catholic province as capital.
 Revoke ~1460 notes:
 
 Golden era:
-- 5 vassals
 - large city (30 dev cap)
 - present on two continents
 - humiliate
@@ -19,7 +18,7 @@ religion flip), and 5 vassals mean I have to setup some vassals...
 I think large city is fine -- it's not that much dev, and I don't think Tengri
 is a contender, it'll be catholic vs sunni.
 Humiliate on Ming might be okay.
-Vassal is... not sure. Preferably no? Maybe a few is still useful for lambda 2.
+Vassal is... not sure. Preferably no? Maybe a few are still useful for v2.
 
 Dip rep:
 - +1 (25 yrs) Generic mission (two allies w/ 150 opinion, could be easily done when securing
@@ -103,16 +102,6 @@ Diplomats:
 - Timurids improve
 - Misc spynetwork
 
-
-
-Korchin: dow with reconquest?
-Mongolia: integrate (see above notes)
-Ming: need Esen Taishi to die with Timurid dynasty... how many troops for Ming?
-Chagatai: 
-Uzbek:
-Timurid: Ruler needs to die and ind. war needs to fire before I get an RM.
-
-
 Phase 1:
 Dow Korchin (let them occupy Mongolian province first -- fight with free
 company?)
@@ -123,7 +112,71 @@ Dow Chagatai (wipe Chagatai asap, don't siege Yarkand too much). They will run
 west, so move troops accordingly to catch them in Qurqara Usu or Ili
 
 Gift Mongolia before Feb 1445 (need 50+ ducats and not making deficit, which
-could be hard with going super over FL)
+could be hard with going super over FL. Can get a bit extra via exploit dev)
 
+Before peacing both out, RM Mongolia for 25 rel. Peace -> return Barag (25
+opinion) -> begin integrating Mongolia -> declare next set of wars.
+Make sure you raze Mongol cores (taken from Korchin) after you begin annexation.
 
-Note: Ming can enforce peace
+Phase 2:
+Dow Uzbek + Solon. Priority is making sure Mongolia annexation finishes asap.
+With proper pacing, you should only need 48 integration progress, which is
+a bit over 1 year. 100% Solon and feed most of non-core Mongolian land (except 3 Mongol
+culture provinces in South to connect + later mission). Seize the remaining
+non-cores appropriately by placating/dev pushing cores.
+
+Focus on Central asian provinces from Uzbek. Don't fixate on getting perma
+claims from missions -- pacing is more important, and ideally Uzbek should be
+~100%'d within a year.
+
+-- at this point there isn't much incentive to be at peace, so exact order of
+peace deals/new war decs don't matter much.
+
+Dow (western front):
+- Transoxiana (during ind. war)
+  - Take Khiva + enough central asian provinces for mission. I would not border
+    Timurids yet since Tim coalition is a bitch.
+- Nogai
+  - Again, central asian provinces
+- Great Horde
+  - Mission tree + border Ryazan
+- Kazan
+  - Border Muscovy
+- Crimea
+  - More pontic steppe provinces/full annex is possible with Crimea as war goal
+    if they don't get lucky dev events (barely 100%)
+- Muscovy/Lithuania/Novgorod/Tver/Ryazan
+  - Goal is to get defeat the Rus. May need to snag Theodoro for an extra Pontic
+    steppe province. Worst case might even need Genoa?? Not sure how long that
+    war will be. Before peacing out Muscovy, make sure Ryazan is full annexed
+    so you can take Moscow + a snake to Novgorod. Alternatively approach Muscovy
+    with diplo6 for WS red, but idk how feasible that is timing wise.
+  - Odoyev could be used for truce reset against Lith + Muscovy, but instead
+    just take more provinces from them (no time to wait 5 year white peace
+    truce). Consider trucebreaking them instead if necessary, although I don't
+    think it's advisable given that they mainly hold orthodox provinces.
+- Poland
+  - Ideally approach with diplo + defeat the Rus. Moldavia can be used to take
+    more provinces.
+- Hungary
+  - _Maybe_ consider bordering Cilli after? Not sure... Cilli is a fairly
+    approachable western european province for capital.
+- Teutonic/Livonian/Riga (ezpz)
+  - Consider prepping a flip to Prussian for later HRE reform acceptance
+- Austria
+  - Maybe...............................................
+
+Eastern wars:
+- Ming
+  - worst case humiliate them on first war, but pref humiliate Uzbek as
+    secondary participant if alliance chains work out
+  - usual Ming bank -- can be done three times
+- Various Manchurian tribes
+  - order shouldn't matter, but it would be nice to accept Jurchen culture for
+    later Manchu flip + faster coring before going too ham.
+- Korea
+  - PAIN. I think 2 diprep is unnecessary. Maybe not worth truce breaking them.
+
+Caucasia:
+Eat ortho provinces. Also eat Shia provinces for some trickery later.
+
