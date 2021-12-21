@@ -182,28 +182,9 @@ Eastern wars:
 Caucasia:
 Eat ortho provinces. Also eat Shia provinces for some trickery later.
 
-=======
-could be hard with going super over FL)
-
-Peace out both when Mongolia integration is ready. Don't raze Mongolian cores
-until begin annexation.
-
-Hire grand company here? Not sure. Can also hire some Chinese mercs around here.
-
-War 2:
-Dow Solon (feed Mongolia land)
-Dow Haixi (feudalism)
-Dow other Manchurians if appropriate. Maybe leave Jianzhou alone.
-Dow Uzbek (don't wait for Mongolia integration -- just take and core the central
-asian provinces w/o perma claim, w.e). Probably release Sibir vassal -- don't
-bother coring
-
-Dow Kazan + Nogai, dow Transoxiana if appropriate.
-Should be able to dow Ming soon.
-
 Savescum for:
 1) Poland Lithuania PU (they should be separate)
 2) Moldavia vassal (they should remain independent and therefore guaranteed by Poland)
 3) Crimea Ottoman march (no thanks)
 4) Austria Hungary PU
->>>>>>> 022c2dab5d524bbe0da204107d576ecb947ac289
+5) Pulse events (see notes).

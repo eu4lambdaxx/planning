@@ -23,7 +23,11 @@ I think all modifiers below are 10 years
 - influence (firm hand - 25% income from vassals, 100% vassal FL, pen is backed by sword - 33% envoy travel time)
 - horde gov (blue dragon/white tiger - 20% razing power. Mutually exclusive, taming provinces - 15% mvspd)
 - humanist (10% idea cost)
-- 
+
+To reach tech 5 by 1449 Oct... we need 600 + 840 adm points or 1440 adm points total.
+1) -10% from golden era
+2) -10% from Confucian sync
+ 
 
 Pulse 2 (~1449/11/02)
 - tribal_estate_events.9 (20% razing power, 10% morale for 10 years, should have 50+ tribal influence)
