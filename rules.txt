@@ -22,7 +22,8 @@ particular trick. This is mostly relevant for the early wars and is more about
 reducing the number of 1444s to look for favorable nice alliance chains. Later
 on, alliances save diplomat travel time, so it's not particularly a gamechanger.
 As far as I know, Terry did not use this, so this gives my run a slight edge
-esp. in the early game.
+esp. in the early game. Credits to Chinese community (CT?) for this.
+see: https://www.billibilli.com/video/BV1LV41127UR 
 
 4) Native migration manipulation TBD. I may or may not do this if I feel like
 it. I used it in my 1.29 run, and I'm not sure if I can still manipulate post
