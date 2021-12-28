@@ -3,3 +3,21 @@ Golden Horde (NI)
 
 Non horde:
 Dai Viet (10% siege ability, 5% idea cost)
+- Vietnamese culture, core Annam state and Song Hong state. Make sure Tonkin/Annam do not exist.
+- TODO (maybe missions are unreasonable?)
+
+Siam (50 gov reform progress) TODO
+
+Morocco (TODO check Wattasid event chain?)
+
+
+
+Poland
+- Polish culture, core Krakow, Warszawa, Poznan, Kalish, Sieradz, Sandomierz, Leczyca
+- Polish Renaissance
+  - Stab > 2, Prestige > 25, WE < 1, embraced Renaissance
+
+ 
+Colonization:
+France/Morocco/
+

@@ -1,0 +1,18 @@
+Mausoleum: 5% tech
+Bangkok: 50% Vassal FL
+Heddal Steve: 10% stab (province needs to be catholic)
+Khami: 5% tech (province needs to be pagan)
+
+(needs culture acceptance)
+Pyramid of Cheops: 5% idea
+Machu pichu: 15% idea
+Versailles: 20% vassal income
+Stonehenge: 25% stab and 1 ToH
+Petra: 33% envoy
+
+St Peters: 10% idea (if catholic)
+Kaaba: 10% WS, 20% RU (muslim)
+Al Hambra: 10% vassal income and 5% adm eff (Christian/Muslim)
+Registan: 25% stab (Muslim)
+
+

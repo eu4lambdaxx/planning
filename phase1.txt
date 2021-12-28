@@ -113,7 +113,6 @@ Dow Chagatai (wipe Chagatai asap, don't siege Yarkand too much). They will run
 west, so move troops accordingly to catch them in Qurqara Usu or Ili
 
 Gift Mongolia before Feb 1445 (need 50+ ducats and not making deficit, which
-<<<<<<< HEAD
 could be hard with going super over FL. Can get a bit extra via exploit dev)
 
 Before peacing both out, RM Mongolia for 25 rel. Peace -> return Barag (25
@@ -164,7 +163,7 @@ Dow (western front):
   - _Maybe_ consider bordering Cilli after? Not sure... Cilli is a fairly
     approachable western european province for capital.
 - Teutonic/Livonian/Riga (ezpz)
-  - Consider prepping a flip to Prussian for later HRE reform acceptance
+  - Consider prepping a flip to Prussian for later HRE reform acceptance?
 - Austria
   - Maybe...............................................
 
@@ -188,3 +187,4 @@ Savescum for:
 3) Crimea Ottoman march (no thanks)
 4) Austria Hungary PU
 5) Pulse events (see notes).
+

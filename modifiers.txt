@@ -1,0 +1,38 @@
+Tech (for early 7)
+- Sunni
+  - double hanafi (10%)
+  - dhimmi (10%)
+  - legalism (10%)
+  - islamic center of scholarly learning (5%, requires ruler dip > 4? confirm)
+- golden era (10%)
+- inno (10%? maybe that's too much)
+- polish renaissance (10%)
+- maybe adm ideas (or inno ideas, but same amount except for pulse events)
+- cultural_event.3 (10% Byzantine influx)
+- 724 (5%)
+- flavor_gra.1 (5%)
+- some consort magic... can get ~25% if super lucky
+- lvl 3 natural scientist (10% 6 years)
+- lvl 3 statesman (10% 6 years)
+- 
+
+
+
+Adm Tech:
+Tech 5 by 1449 Oct:
+- golden era
+- confucian syncretic (not necessary btw)
+
+Tech 7
+- Embrace Renaissance whenever; unlike for tech 10, golden era/inno will counteract the point cap increase from not embracing renaissance for tech 7 (~1460), so there is no point not embracing renaissance
+- sunni w/ dhimmi (so drop horde temporarily, time it with non horde tag switches?)
+  - double hanafi (10%)
+  - dhimmi (10%)
+  - legalism (10%)
+  - islamic center of scholarly learning (5%, requires ruler dip > 4? confirm)
+  - golden era (10%)
+  - HRE last common reform (5%) - this means ideally revoke is done last? not sure how to time the reform
+  - polish renaissance (10%)
+  - maybe adm ideas (or inno ideas, but same amount except for pulse events)
+  - 
+
