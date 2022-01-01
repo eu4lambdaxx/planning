@@ -6,7 +6,7 @@ used these (he called v3 revoke Lambda revoke plus and HRE abuse god king)
 
 2) Extreme save scumming/birding for pulse events (in particular dotf.1). Terry
 has not explicitly mentioned that he save scummed for it, but I highly doubt he
-got 2 two year pulse events with less than 0.5% chance without save scumming.
+got said two year pulse event with less than 0.5% chance without save scumming.
 There's nothing wrong with save scumming to me, it's just a matter of effort,
 but I'll do the same to match the level of RNG. I don't know how far Terry went
 for these events, but I intend to capture all pulse events that I want. This
@@ -30,4 +30,5 @@ it. I used it in my 1.29 run, and I'm not sure if I can still manipulate post
 rework 1.31 natives.
 
 Note that as per usual, I do not allow custom nations, external programs (like
-cheat engine), changing game files, etc.
+cheat engine), changing game files, etc. However, all in game tricks/exploits
+are fair game -- this is a full tryhard run.
