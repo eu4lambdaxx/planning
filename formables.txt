@@ -1,5 +1,63 @@
+direct_core - own + core
+indirect_core - own or non-tributary subject own + core
+direct_own - own
+indirect_own - own or non-tributary subject own
+
 Horde:
-Golden Horde (NI)
+
+Golden Horde
+- Formation
+  - direct_core
+    - 284, 302, 464, 465, 466, 476, 1075, 1082, 1778, 2411
+  - subject_own
+    - 294, 295, 301, 307, 308, 1956
+- Must
+  - direct_core
+    - 303, 466, 464, 1082, 465, 2190
+  - direct_own
+    - mongolia_region
+  - subject_own
+    - nogai_area, kazakhstan_area, syr_darya_area, kyzylkum_area,
+      central_asia_region, north_china_region
+- Nice to have
+  - direct_core
+    - 6 CoTs in Persia/Central Asia/Khorasan region (technically only need to
+      own and not core, but realistically speaking I'd need to upgrade the CoTs
+      and dev push)
+  - subject_own
+    - 301, ryazan_area, moscow_area, suzdal_area, tver_area, yaroslavl_area,
+      vladimir_area, azov_area, crimea_area, zaporizhia_area, yedisan_area,
+      sloboda_ukraine_area, west_dniepr_area, east_dniepr_area,
+      podolia_volhynia_area, caucasia_region, tabriz_area, azerbaijan_area,
+      shahrizor_area, luristan_area, tabarestan_area, mashhad_area, herat_area,
+      birjand_area, isfahan_area, iraq_e_ajam_area
+
+Timurids
+- Formation
+  - direct_core
+    - 446, 454, 451, 445, 428 (picked kabul/merv/teheran)
+- Must
+  - direct_own
+    - 
+- Nice to have
+  - direct_own
+    - 431, 4327, 2217, 4342, farsistan_area, persian_gulf_coast, kerman_area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Non horde:
 Dai Viet (10% siege ability, 5% idea cost)
